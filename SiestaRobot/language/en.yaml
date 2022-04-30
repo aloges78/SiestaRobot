@@ -9,23 +9,18 @@ set_chat_lang: "Great, using {} Language it is from now on!"
 
 # PM Text
 pm_start_text: |
-  *Hey Darling, {} ❤️*
-  ✪ I'm an anime-theme management robot [✨](https://telegra.ph/file/6d3e3ef24f64fb6e35df0.jpg)
+  Hey my name is Sasa - I can help you manage groups!  Invite me to your group now.
 
-  ┏━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┓
-  × *Server Uptime :* `{}`
-  × `{}` *users, across* `{}` *chats.*
-  ┗━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┛
-
-  ✪ Hit /help to see my available commands.
+✪ Hit /help to see my available commands.
+✪ Hit /setlang to change language
    
 group_start_text: |
-  *👋🏻 Hi Darling, I'm Siesta Robot!*
+  *👋🏻 Hi , I'm Sasa Mode bot!*
   
   *Started active since :* `{}`
 
 pm_about_text: |
-  ✺ Hey Darling I'm *Siesta Robot*, a powerful group management bot built to help you manage your group easily. ✺
+  ✺ Hey Darling I'm *Sasa Mode Bot*, a powerful group management bot built to help you manage your group easily. ✺
 
   ✪ I can restrict users.
   ✪ I can greet users with customizable welcome messages and even set a group's rules.
@@ -39,7 +34,7 @@ pm_about_text: |
 pm_about_admin_text: |
   *✺ Let's make your group bit effective now ✺*
 
-  Congragulations, Siesta Robot now ready to manage your group.
+  Congragulations, Sasa Mode Bot now ready to manage your group.
 
   *Admin Tools*
   Basic Admin tools help you to protect and powerup your group.
@@ -58,7 +53,7 @@ pm_about_support_text: |
 
   Join My Support Group/Channel for see or report a problem on Siesta.
 pm_about_credit_text: |
-  *✺ Credis for Siesta ✺*
+  *✺ Credis for Sasa Mode Bot ✺*
 
   Here Developers Making And Give Inspiration For Made The Siesta Robot
 pm_help_text: |
@@ -86,11 +81,11 @@ add_bot_to_group_button: "♕ Add Me To Your Group ♕"
 support_chat_link_button: "Support"
 updates_channel_link_button: "Update"
 notes_button: "Notes"
-source_button: "Source Code"
+source_button: "Owner"
 help_button: "Get Help"
 back_button: "Go back"
 about_button: "About Siesta Robot"
-inline_button: "Try inline!​​"
+inline_button: "Support​​"
 
 # MODULES
 admin_help: |
